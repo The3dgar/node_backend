@@ -7,6 +7,7 @@ This is a template for futures backends
   - express
   - jwt
   - express-validator
+  - mailer notification
 
 ## Docs source:
  - EN: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
